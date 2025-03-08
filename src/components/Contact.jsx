@@ -66,7 +66,7 @@ const handleSubmit = (e) => {
               <i className="fas fa-envelope"></i>
               <div>
                 <h3>Email</h3>
-                <p>shivamkumarsingh2020@gmail.com</p>
+                <p>shivamkumarsingh.sk.2020@gmail.com</p>
               </div>
             </div>
             
@@ -79,16 +79,16 @@ const handleSubmit = (e) => {
             </div>
             
             <div className="contact-social">
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/shivam-kumar-3a9b1a261/" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-linkedin"></i>
               </a>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Shivamkumar9823" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github"></i>
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+              {/* <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-twitter"></i>
-              </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+              </a> */}
+              <a href="https://www.instagram.com/shivamkumar_.exe/" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-instagram"></i>
               </a>
             </div>

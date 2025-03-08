@@ -1,7 +1,7 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaDownload } from "react-icons/fa";  // ✅ Correct
-import resume from "../../public/Resume.pdf"
+import resume from "../Resume.pdf"
 
 
 const Hero = () => {
