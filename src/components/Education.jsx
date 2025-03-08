@@ -12,8 +12,8 @@ const Education = () => {
     },
     {
       id: 2,
-      degree: "Higher Secondary",
-      institution: "Morning Star Children's Academy (CBSC)",
+      degree: "Higher Secondary (CBSC)",
+      institution: "Morning Star Children's Academy ",
       location: "Orai,Uttar Pradesh, India",
       period: "2020 - 2021",
       description: "Completed Class 12 with an aggregate of 85%, building a strong foundation in Mathematics, Science ."
