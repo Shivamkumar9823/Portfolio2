@@ -66,7 +66,7 @@ const handleSubmit = (e) => {
               <i className="fas fa-envelope"></i>
               <div>
                 <h3>Email</h3>
-                <p>shivamkumarsingh.sk.2020@gmail.com</p>
+                <p>shivamkumarsingh2020@gmail.com</p>
               </div>
             </div>
             
