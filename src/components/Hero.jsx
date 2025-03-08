@@ -1,5 +1,8 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
+import { FaDownload } from "react-icons/fa";  // ✅ Correct
+import resume from "../../public/Resume.pdf"
+
 
 const Hero = () => {
   return (
@@ -31,6 +34,7 @@ const Hero = () => {
           </p>
           <div className="hero-buttons">
             <a href="#contact" className="btn btn-primary">Contact Me</a>
+            <a href={resume} download={resume} className="btn btn-secondary"> <FaDownload />  Resume</a>
             <a href="#projects" className="btn btn-secondary">My Work</a>
           </div>
         </div>
