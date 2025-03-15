@@ -715,7 +715,7 @@ section {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 50px;
-  /* margin-right:10px ; */
+  margin-right:10px ;
 }
 
 .contact-info {
@@ -723,8 +723,6 @@ section {
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  padding-right: 20px;
-
 }
 
 .contact-item {
